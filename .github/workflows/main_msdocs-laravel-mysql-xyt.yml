@@ -63,4 +63,4 @@ jobs:
           app-name: 'msdocs-laravel-mysql-XYT'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DBCB2B4E58A24DC7B786512DE55A1348 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7B0D5A0C5B914987B3017853EA042F49 }}
